@@ -1,0 +1,2 @@
+# ClaseIa
+ejercicios
